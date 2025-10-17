@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Mathematics in computing/Lesson 3 (Limits).md",
+                "file": "Computer Science/Computing Fundamentals/Lesson 2 (Concept Maps).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 3 (Limits)"
+              "title": "Lesson 2 (Concept Maps)"
             }
           }
         ]
@@ -180,8 +180,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "937c5ff110bd9148",
+  "active": "aed3c1f38cbea22b",
   "lastOpenFiles": [
+    "Computer Science/Mathematics in computing/Lesson 3 (Limits).md",
     "Computer Science/Mathematics in computing/1. Map of Content (Mathematics in Computing).md",
     "Computer Science/Mathematics in computing/Lesson 2 (Imaginary Numbers, but i do it my way).md",
     "Untitled.base",
