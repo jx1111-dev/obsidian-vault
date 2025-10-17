@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "92a98852db20fb04",
+    "type": "split",
+    "children": [
+      {
+        "id": "272bf44012266afa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7db38314c29bf47a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computing Fundamentals/Lesson 3 (Computer Architecture).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 3 (Computer Architecture)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cce82e09ee6a748",
+    "type": "split",
+    "children": [
+      {
+        "id": "edcc332ae5eb898e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f83c9c7aa17de43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5a0ce14bb6cfa0bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c56519766bbf0b4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82e56bc0f79ab87b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3affd8c9520a98f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "595911e8c696b411",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Science/Computing Fundamentals/Lesson 3 (Computer Architecture).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lesson 3 (Computer Architecture)"
+            }
+          },
+          {
+            "id": "3a0f8f3213a93da3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Science/Computing Fundamentals/Lesson 3 (Computer Architecture).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lesson 3 (Computer Architecture)"
+            }
+          },
+          {
+            "id": "5207264b16e47fdd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "eaf6b3aafeeeaa60",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Science/Computing Fundamentals/Lesson 3 (Computer Architecture).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lesson 3 (Computer Architecture)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7db38314c29bf47a",
+  "lastOpenFiles": [
+    "Computer Science/Computing Fundamentals/Lesson 2 (Concept Maps).md",
+    "Computer Science/Computing Fundamentals/Lesson 1 (Logic Gates).md",
+    "Computer Science/Computing Fundamentals/1. Map of Content (Computing Fundamentals).md"
+  ]
+}
