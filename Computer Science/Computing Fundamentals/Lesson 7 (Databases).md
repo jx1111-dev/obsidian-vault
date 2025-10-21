@@ -26,5 +26,5 @@ If, for example, in the table above, you did "SELECT student_id" it would print 
 
 WHERE (sort of like an if statement) can be used to specify conditions, like "SELECT student_id WHERE age = 17"
 
-i guess finish this,,, tim out like no effort into this presentation
+i guess finish this,,, tim put like no effort into this presentation and he explains everything very badly
 
