@@ -146,3 +146,5 @@ $$
 \frac{x^3+2x-1}{6x^2}
 $$
 TO FINISH. ADD THE L'HOPITAL RULE AND THE FORMAL METHOD
+
+#LessonDefinedUnderstandingTBD😂😂😎😎
