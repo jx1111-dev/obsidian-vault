@@ -14,3 +14,5 @@ $$
 \in means \space belongs \space to,\equiv means \space equivalent \space (to), \space \land means \space and.
 $$
 So in this set, S is a set of numbers belonging to N (natural numbers) that are smaller than 6. Thus, you get a set of 1, 2, 3, 4, 5.
+
+#LessonDefinedUnderstandingTBD😂😂😎😎 
