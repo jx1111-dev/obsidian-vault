@@ -177,5 +177,19 @@ We covered polar and cartesian conversions earlier. That's how you switch betwee
 The magnitude of **z** is:
 $$|z| = \sqrt{(a^2+a^2)}$$
 
+And the angle of **z**, also called **Arg(z)** is:
+$$
+Arg(z) = tan^{-1}(b/a)
+$$
+
+The magnitude is sort of like a pythagora's theorem. Think of the magnitude as the hypotenuse of a right triangle. **a** and **b** are the sides.
+![[Pasted image 20251030114713.png]]
+$$\begin{aligned}
+
+**z** is 
+
+\end{aligned}$$
+
+https://www.mathsisfun.com/numbers/complex-numbers.html
 TO FINISH
 #LessonDefinedUnderstandingTBD😂😂😎😎 
