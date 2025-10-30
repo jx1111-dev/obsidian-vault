@@ -106,6 +106,9 @@ These give you almost exactly the coordinates (12,5). This is stupid and dumb, b
 **If x and y are negative, things get more complicated.**
 The graph you had gains 3 more "Quadrants." These are numbered I-IV, counter-clockwise.
 ![[Pasted image 20251009113342.png]]
+Now, when converting from Polar to Cartesian, it all works out fine. 
+
+
 
 TO FINISH
 #LessonDefinedUnderstandingTBD😂😂😎😎 
