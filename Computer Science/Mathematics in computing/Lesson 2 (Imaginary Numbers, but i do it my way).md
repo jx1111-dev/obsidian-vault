@@ -104,11 +104,54 @@ $$
 These give you almost exactly the coordinates (12,5). This is stupid and dumb, but good enough. 
 
 **If x and y are negative, things get more complicated.**
-The graph you had gains 3 more "Quadrants." These are numbered I-IV, counter-clockwise.
+The graph you had gains 3 more "Quadrants." These are numbered I-IV, counter-clockwise. (This is explained later)
 ![[Pasted image 20251009113342.png]]
 Now, when converting from Polar to Cartesian, it all works out fine. 
+$$
+\begin{aligned}
+&For\ example,\ what\ is\ (12,195\degree)\ in\ cartesian\ coordinates?
+\\&r=12\ and\ \theta=195\degree\\
+\\&Solving\ x:
+\\&x = 12 \times cos(195\degree)
+\\&x = 12 \times -0.9659...
+\\&x = -11.59\ to\ 2\ decimal\ places\\
+\\&Solving\ y:
+\\&y = 12 \times sin(195\degree)
+\\&y = 12 \times -0.2588...
+\\&y = -3.11\ to\ 2\ decimal\ places
+
+\end{aligned}
+$$ 
+But when you try Cartesian to Polar, your calculator can give the wrong value of tan^-1
+
+However, it depends on what quadrant the point is in. Here is what you do:
 
 
+| Quadrant | Value of tan^-1                  |
+| -------- | -------------------------------- |
+| I        | Use the calculator value         |
+| II       | Add 180° to the calculator value |
+| III      | Add 180° to the calculator value |
+| IV       | Add 360° to the calculator value |
+(Yes, both quadrant II and III are "Add 180")
+
+Example:
+![[Pasted image 20251030104350.png]]
+P is in Quadrant II
+$$\begin{aligned}
+&r = \sqrt((-3)^2+10^2)
+\\&r = \sqrt109 = 10.4\ to\ 2\ decimal\ place
+\\&\theta = tan^{-1}(10/-3)
+\\&\theta = tan^{-1}(-3.33...)
+\\&The\ calculator\ value\ for\ tan^{-1}(-3.33...)\ is\ -73.3\degree\ (not\ good)
+\\&\to The\ rule\ for\ Quadrant\ II\ is:\ Add\ 180\degree \ to\ the\ calculator\ value
+\\&\to \theta = -73.3\degree + 180\degree = 106.7\degree
+\end{aligned}$$
+So the polar coordinates for the point (-3,10) are (10.4, 106.7°)
+
+Now that we got conversions out of the way,
+
+==COMPLEX PLANES==
 
 TO FINISH
 #LessonDefinedUnderstandingTBD😂😂😎😎 
