@@ -19,8 +19,6 @@ If you multiply them its like multiplying two brackets? I guess?
 
 ==COMPLEX NUMBER SUBUNITS==
 
-Complex conjugates are briefly covered in [[Lesson 3 (Limits)]]
-
 if letters have a line above them it means they are negative or something???
 
 V line z
@@ -170,6 +168,8 @@ We refer to the real part and imaginary part using **Re** and **Im** like this:
 Re(z) = a
 Im(z) = b
 
+A ==conjugate== is when you change the sign in the middle of 2 terms to their opposite. Like this:
+$$3x+1 \to 3x-1$$
 
 
 TO FINISH

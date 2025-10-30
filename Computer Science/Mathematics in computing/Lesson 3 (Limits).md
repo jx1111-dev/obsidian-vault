@@ -106,7 +106,7 @@ $$\lim_{x \to 1} (x+1) = 1+1 = 2$$
 
 For some fractions, you may need to use 
 #### ==CONJUGATES==
-A conjugate is when you change the sign in the middle of 2 terms to their opposite. Like this:
+If you don't remember, a conjugate is when you change the sign in the middle of 2 terms to their opposite. Like this:
 $$3x+1 \to 3x-1$$
 Here's an example of how to use conjugates in limits:
 $$\lim_{x \to 4} \frac{2-\sqrt{x}}{4-x}$$
