@@ -151,12 +151,24 @@ So the polar coordinates for the point (-3,10) are (10.4, 106.7°)
 
 Now that we got conversions out of the way,
 
-==THE COMPLEX PLANE==
+# ==THE COMPLEX PLANE==
 ![[Pasted image 20251030105949.png]]
 When you imagine real numbers, you probably imagine them in a line that goes negative (to the left) and positive (to the right). Imaginary numbers basically go up (positive) and down (negative), creating a **complex plane.** 
 
 We can now show complex numbers as points:
 ![[Pasted image 20251030110302.png]]
+==Properties==
+The letter z is usually the designation we use for a complex number.
+$$
+z = a + bi
+$$
+- **z** is a Complex Number
+- **a** and **b** are Real Numbers
+- **i** is the unit imaginary number = $$\sqrt{-1}$$
+We refer to the real part and imaginary part using **Re** and **Im** like this:
+
+Re(z) = a
+Im(z) = b
 
 
 
