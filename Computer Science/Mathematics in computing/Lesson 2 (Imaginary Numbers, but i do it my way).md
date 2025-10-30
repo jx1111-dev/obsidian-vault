@@ -168,9 +168,14 @@ We refer to the real part and imaginary part using **Re** and **Im** like this:
 Re(z) = a
 Im(z) = b
 
-A ==conjugate== is when you change the sign in the middle of 2 terms to their opposite. Like this:
-$$3x+1 \to 3x-1$$
+The ==conjugate== (it changes the sign in the middle) of **z** is shown with a star:
+$$z^* =3x+1 \to 3x-1$$
+Instead of just having the coordinate of the point, you could also use angle and distance (called the **polar** form)
+![[Pasted image 20251030111531.png]]
+We covered polar and cartesian conversions earlier. That's how you switch between them.
 
+The magnitude of **z** is:
+$$|z| = \sqrt{(a^2+a^2)}$$
 
 TO FINISH
 #LessonDefinedUnderstandingTBD😂😂😎😎 
