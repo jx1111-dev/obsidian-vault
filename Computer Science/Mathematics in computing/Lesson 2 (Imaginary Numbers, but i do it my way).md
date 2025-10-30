@@ -53,11 +53,11 @@ Now, before I move on to visual explanations (Graphs. Yes, I know you haven't se
 Cartesian coordinates are simple. It's (x,y). It's the simple type of coordinate. e.g. (12,5). You know this. You had like a whole other set of GCSEs about this.  
 ![[Pasted image 20251009105045.png]]
 
-Polar coordinates mark a point by **how far away it is**, and **what angle it has**.
+Polar coordinates mark a point by **how far away it is**, and **what angle it has** from **0**.
 ![[Pasted image 20251009105104.png]]
 
 If  you want to convert from polar to cartesian, you do so like this:
-Firstly, make a triangle with points on the center, the point, and the intersection of the point and the center. Make sure it's a right angle triangle.
+Firstly, make a triangle with points on the center (0), the point, and the intersection of the point and the center. Make sure it's a right angle triangle.
 ![[Pasted image 20251009105154.png]]
 
 If you are converting from **cartesian to polar**, use pythagoras theorem to calculate r (because you should have x and y)
