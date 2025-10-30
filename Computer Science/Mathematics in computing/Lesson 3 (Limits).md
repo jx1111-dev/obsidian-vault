@@ -32,10 +32,7 @@ So when x=1, we don't know the answer. It is __indeterminate__.
 
 But we can see it's __going__ to be 2.
 
-We can't just say it's 2 however. Instead, the math way of saying this is:
-
-The __limit__ of $$\frac{(x^2-1)}{(x-1)}$$
-as x approaches 1 is __2__.
+We can't just say it's 2 however. Instead, the math way of saying this is: $$The \space limit \space of \space \frac{(x^2-1)}{(x-1)}\space as \space x \space approaches \space 1 \space is \space 2$$
 
 Written in symbols as:
 $$\lim_{x \to 1} \frac{x^2-1}{x-1} = 2
