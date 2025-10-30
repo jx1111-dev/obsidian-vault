@@ -134,7 +134,7 @@ However, it depends on what quadrant the point is in. Here is what you do:
 (Yes, both quadrant II and III are "Add 180")
 
 Example:
-![[Pasted image 20251030104350.png]]
+![[polar-example-1.gif]]
 P is in Quadrant II
 $$\begin{aligned}
 &r = \sqrt((-3)^2+10^2)
@@ -150,11 +150,11 @@ So the polar coordinates for the point (-3,10) are (10.4, 106.7°)
 Now that we got conversions out of the way,
 
 # ==THE COMPLEX PLANE==
-![[Pasted image 20251030105949.png]]
+![[complex-plane.svg]]
 When you imagine real numbers, you probably imagine them in a line that goes negative (to the left) and positive (to the right). Imaginary numbers basically go up (positive) and down (negative), creating a **complex plane.** 
 
 We can now show complex numbers as points:
-![[Pasted image 20251030110302.png]]
+![[complex-plane-3-4i.svg]]
 ==Properties==
 The letter z is usually the designation we use for a complex number.
 $$
@@ -171,7 +171,7 @@ Im(z) = b
 The ==conjugate== (it changes the sign in the middle) of **z** is shown with a star:
 $$z^* =3x+1 \to 3x-1$$
 Instead of just having the coordinate of the point, you could also use angle and distance (called the **polar** form)
-![[Pasted image 20251030111531.png]]
+![[complex-plane-3-4i-polar.svg]]
 We covered polar and cartesian conversions earlier. That's how you switch between them.
 
 The magnitude of **z** is:
@@ -182,8 +182,8 @@ $$
 Arg(z) = tan^{-1}(b/a)
 $$
 
-The magnitude is sort of like a pythagora's theorem. Think of the magnitude as the hypotenuse of a right triangle. **a** and **b** are the sides.
-![[Pasted image 20251030114713.png]]
+The magnitude is sort of like a Pythagoras's theorem. Think of the magnitude as the hypotenuse of a right triangle. **a** and **b** are the sides.
+![[complex-plane-arg.svg]]
 $$\begin{aligned}
 
 **z** is 
