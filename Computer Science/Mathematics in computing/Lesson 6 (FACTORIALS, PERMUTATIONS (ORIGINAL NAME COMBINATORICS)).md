@@ -31,7 +31,7 @@ Where **n** is the number of things to choose from, and we choose **r** of them.
 
 To calculate a no repetition permutation, you need to reduce the number of available choices every time you choose an item. 
 
-For example, what order can 16 pool balls go in?
+For example, what order can 16 billiard balls go in?
 If we put ball number 14 first, we cannot choose it again. So for the next choice, we have 15 choices left. Overall, it comes out to:
 
 $$16*15*14*13*12*11*10*9*8*7*6*5*4*3*2*1 = 20,922,789,888,000\ permutations$$
@@ -74,11 +74,16 @@ Interestingly, 0! is actually equal to one. Let me explain by working my way bac
 1! = 1 (/2)
 0! = 1 (/1)
 
-==fun cool awesome hack for dividing factorials working 2026 no virus
+==DIVIDING FACTORIALS==
 
-If you divide 2 factorials, e.g.
-$$\frac{100!}{98!}$$
-In reality, this looks like:
-$$\frac{100*99*98*97*96*95...}{98*97*96*95...}$$
-If you look closely, you would notice that 100! contains all terms in 98!, so you can simplify the fraction:
-$$\frac{100*99*98*97....}{98*97...} = 100*98 = 9800$$
+If you have 16 billiard balls, you have 20,922,789,888,000 permutations.
+
+But, if you want to only order, lets say, only 3 billiard balls, that means you don't want to multiply past 14. What's an efficient way to write this, you ask? Divide by 13!
+$$\frac{16 × 15 × 14 × 13 × 12 × ...}{13 × 12 × ...} =  16 × 15 × 14$$
+The neat part is that you just cancel all the common factors, leaving only 16x15x14.
+
+The formula is:
+
+$$\frac{n!}{(n-r)^!}$$
+
+And the official nerdy notation for all of this
