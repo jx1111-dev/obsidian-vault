@@ -11,18 +11,20 @@ Repetition is Allowed: allows multiple of the same item in the same set. Example
 
 These are the easiest to calculate. Take the combination lock S = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}.
 
-When a thing has **n** types, we have **n** choices each time.
+When a thing has **r** things, we have **n** choices each time.
 
-For example,
+For example, choosing **3** items out of the **10** item list:
 
-For example, in the lock above, there are 10 numbers to choose from. If we choose 3 of them:
+$$n*n*n\ (n\ multiplied\ r\ times) = 10*10*10\ (10\ multiplied\ 3\ times)$$
+
+For example, in the lock above, there are 10 numbers to choose from. If we choose 6 of them:
 
 $$\begin{aligned}
-&\\10*10*10 =10^3 = 1000 \ permutations
+&\\10*10*10*10*10*10 = 10^6 = 1000000 \ permutations
 \end{aligned}$$
 
 The formula being n^r
-
+Where **n** is the number of things to choose from, and we choose **r** of them.
 No Repetition: a set cannot have a repeat item. Think about it like the first 3 people winning a race. You can't be first and second.
 
 ==FACTORIALS==
