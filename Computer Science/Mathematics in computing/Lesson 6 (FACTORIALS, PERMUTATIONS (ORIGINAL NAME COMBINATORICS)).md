@@ -9,14 +9,18 @@ There are two types of permutations:
 
 Repetition is Allowed: allows multiple of the same item in the same set. Example: a combination lock with the code being '333' or '448'.
 
-These are the easiest to calculate. Take the set S = {3,3,3,3,3,3,3,3,3}.
-To calculate the maximum combinations, just multiply each number in the list, or to make it easier, bunch all repeated items in the list together:
+These are the easiest to calculate. Take the combination lock S = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}.
+
+When a thing has **n** types, we have **n** choices each time.
+
+For example,
+
+For example, in the lock above, there are 10 numbers to choose from. If we choose 3 of them:
 
 $$\begin{aligned}
-&\\3*3*3*3*3*3*3*3*3  =3^9 = 19683 \ combinations
+&\\10*10*10 =10^3 = 1000 \ permutations
 \end{aligned}$$
-n is the item.
-r is the amount of times it shows up.
+
 The formula being n^r
 
 No Repetition: a set cannot have a repeat item. Think about it like the first 3 people winning a race. You can't be first and second.
