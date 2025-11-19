@@ -94,7 +94,7 @@ In this case, it means to find the value of (e-**"value"**-ating).
 If you're just dealing with a normal number and not some imaginary black magic, it's actually pretty easy. You just ***substitute*** x for the limit. Just put the value in.
 $$\lim_{x \to 10} \frac{x}{2} \to \frac{10}{2} = 5 👍$$
 But...
-$$\lim_{x \to 1} \frac{x}{1} \to \frac{(1-1)}{(1-1)} = 0 👎$$
+$$\lim_{x \to 1} \frac{x}{1} \to \frac{(1-1)}{(1-1)} = \frac{0}{0} 👎$$
 To evaluate these types of limits, you use 
 #### ==FACTORS==
 I'm not gonna go into what factoring is because I assume the person reading this knows some degree of GCSE math. If you don't just let me know I guess. I'll try teaching you.
