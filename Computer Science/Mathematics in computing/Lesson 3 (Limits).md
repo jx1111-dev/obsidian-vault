@@ -1,3 +1,6 @@
+
+For plotting stuff related to this in matplotlib, go here: [[LIMITS IN MATPLOTLIB]]
+
 ==THIS SHIT MAKES NO SENSE, IMMA DO MY OWN THING==
 Limits are used to sort of approximate what an impossible calculation would equal.
 
