@@ -166,3 +166,4 @@ zero in length when vectors **a** and **b** are in the same or opposite directio
 reaches maximum length when vectors **a** and **b** are at right angles. 
 
 #LessonDefinedUnderstandingTBD😂😂😎😎
+
