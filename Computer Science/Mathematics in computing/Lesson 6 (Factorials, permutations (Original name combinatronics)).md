@@ -85,5 +85,3 @@ The neat part is that you just cancel all the common factors, leaving only 16x15
 The formula is:
 
 $$\frac{n!}{(n-r)^!}$$
-
-And the official nerdy notation for all of this
