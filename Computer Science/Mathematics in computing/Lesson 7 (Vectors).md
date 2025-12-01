@@ -103,7 +103,7 @@ oh yeah vector
 
 There are multiple ways of multiplying vectors.
 
-==THE SCALAR (OR DOT PRODUCT)==
+### ==THE SCALAR (OR DOT PRODUCT)==
 
 The dot product is written using a central dot:
 $$\bf{a} \cdot \bf{b}$$
@@ -150,7 +150,7 @@ Now, there are x, y and z values for a and b.
 ![[Pasted image 20251120111936.png]]
 The cos method also remains the same. 
 
-==THE CROSS PRODUCT==
+### ==THE CROSS PRODUCT==
 
 The cross product **a** x **b** of two vectors is another vector that is at right angles to both:
 ![[Pasted image 20251120113310.png]]
@@ -165,5 +165,30 @@ zero in length when vectors **a** and **b** are in the same or opposite directio
 
 reaches maximum length when vectors **a** and **b** are at right angles. 
 
-#LessonDefinedUnderstandingTBD😂😂😎😎
+==CALCULATING THE CROSS PRODUCT==
 
+To calculate it:
+![[Pasted image 20251127102842.png]]
+$$\begin{align}
+&a \times b = \vert{a}\vert \vert{b}\vert \   \sin({\theta})\  n\\
+&\\
+&\vert{a}\vert \  is \  the \ magnitude\ of\ vector\ a\\
+&\vert{b}\vert\ is\ the\ magnitude\ of\ vector\ b\\
+&\theta\ is\ the\ angle\ between\ a\ and\ b\\
+&n\ is\ the\ unit\ vector\ at\ right\ angles\ to\ both\ a\ and\ b 
+&\end{align}$$
+So the **length** is the length of **a** times the length of **b** times the **sine of the angle between a and b**, which is then multiplied by the vector **n** so that the product heads in the correct direction (at right angles to both **a** and **b**.
+
+**OR**
+
+There is this way of doing it with polar coordinates:
+![[Pasted image 20251127103311.png]]
+
+![[Pasted image 20251127103331.png]]
+
+==ONE LAST THING==
+
+Cross products could be pointing in either direction. This is where a rule called the right hand rule comes in.
+
+With your right hand, point your index finger along vector a, and point your middle finger along vector b: the cross product goes in the direction of your thumb. 
+![[Pasted image 20251127103533.png]]
