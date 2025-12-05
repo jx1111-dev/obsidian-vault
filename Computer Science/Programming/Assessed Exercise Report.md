@@ -50,33 +50,34 @@
 | tomato     | 3 vowels        | ![[Pasted image 20251205111336.png]] | N/A          |
 
 ### Exercise 10:
-| Inputs | Expected output | Actual output | Changes made |
-| ------ | --------------- | ------------- | ------------ |
-|        |                 |               |              |
-|        |                 |               |              |
-|        |                 |               |              |
-|        |                 |               |              |
+| Inputs         | Expected output | Actual output                        | Changes made                                                               |
+| -------------- | --------------- | ------------------------------------ | -------------------------------------------------------------------------- |
+| 10, 9, 8, 7    | 7, 8, 9, 10     | ![[Pasted image 20251205140541.png]] | N/A                                                                        |
+| x, h, k, n     | h, k, n, x      | ![[Pasted image 20251205140529.png]] | N/A, letters are sorted alphabetically, unintended but makes no difference |
+| -1, -2, -3, -4 | -4, -3, -2, -1  | ![[Pasted image 20251205142015.png]] | N/A                                                                        |
+
+
 ### Exercise 11:
-| Inputs | Expected output | Actual output | Changes made |
-| ------ | --------------- | ------------- | ------------ |
-|        |                 |               |              |
-|        |                 |               |              |
-|        |                 |               |              |
-|        |                 |               |              |
+| Inputs | Expected output | Actual output                        | Changes made |
+| ------ | --------------- | ------------------------------------ | ------------ |
+| 0      | 0               | ![[Pasted image 20251205142659.png]] | N/A          |
+| 2493   | 18              | ![[Pasted image 20251205142720.png]] | N/A          |
+| 24a3   | Invalid input.  | ![[Pasted image 20251205142745.png]] | N/A          |
+
 ### Exercise 12:
-| Inputs | Expected output | Actual output | Changes made |
-| ------ | --------------- | ------------- | ------------ |
-|        |                 |               |              |
-|        |                 |               |              |
-|        |                 |               |              |
-|        |                 |               |              |
+| Inputs | Expected output | Actual output                        | Changes made |
+| ------ | --------------- | ------------------------------------ | ------------ |
+| Madam  | True            | ![[Pasted image 20251205143959.png]] | N/A          |
+| M3d3m  | True            | ![[Pasted image 20251205144026.png]] | N/A          |
+| M3d2m  | False           | ![[Pasted image 20251205144050.png]] | N/A          |
+
 ### Exercise 13:
-| Inputs | Expected output | Actual output | Changes made |
-| ------ | --------------- | ------------- | ------------ |
-|        |                 |               |              |
-|        |                 |               |              |
-|        |                 |               |              |
-|        |                 |               |              |
+| Inputs     | Expected output | Actual output                        | Changes made |
+| ---------- | --------------- | ------------------------------------ | ------------ |
+| aaa        | Weak            | ![[Pasted image 20251205144540.png]] | N/A          |
+| 111111A    | Weak            | ![[Pasted image 20251205144626.png]] | N/A          |
+| 111111A$   | Medium          | ![[Pasted image 20251205144651.png]] | N/A          |
+| 11111111A$ | Strong          | ![[Pasted image 20251205144757.png]] | N/A          |
 ### Exercise 14:
 | Inputs | Expected output | Actual output | Changes made |
 | ------ | --------------- | ------------- | ------------ |
