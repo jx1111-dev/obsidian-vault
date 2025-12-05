@@ -1,4 +1,4 @@
-Assume y is the function and x is the list of numbers you're gonna run through that function.
+bAssume y is the function and x is the list of numbers you're gonna run through that function.
 
 Make a variable called y or whatever else you want to call it and write the function inside (you probably need numpy).
 
