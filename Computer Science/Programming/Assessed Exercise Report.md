@@ -69,7 +69,7 @@
 | ------ | --------------- | ------------------------------------ | ------------ |
 | Madam  | True            | ![[Pasted image 20251205143959.png]] | N/A          |
 | M3d3m  | True            | ![[Pasted image 20251205144026.png]] | N/A          |
-| M3d2m  | False           | ![[Pasted image 20251205144050.png]] | N/A          |
+| M3d2m  | False           | ![[Pasted image not palindrome.png]] | N/A          |
 
 ### Exercise 13:
 | Inputs     | Expected output | Actual output                        | Changes made |
