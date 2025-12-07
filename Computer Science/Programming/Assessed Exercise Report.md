@@ -36,39 +36,39 @@
 | -1039  | Program throws error | ![[Pasted image 20251205105118.png]] | N/A          |
 
 ### Exercise 8:
-| Inputs                  | Expected output            | Actual output                        | Changes made                    |
-| ----------------------- | -------------------------- | ------------------------------------ | ------------------------------- |
-| 1,2,3,4,5 and 6,7,8,9,0 | The words are not anagrams | ![[Pasted image 20251205105523.png]] | N/A                             |
-| apple, orange           | The words are not anagrams | ![[Pasted image 20251205105605.png]] | N/A                             |
-| fried, fired            | The words are anagrams     | ![[Pasted image 20251205105755.png]] | The program now sorts the lists |
-| fried, fired            | The words are anagrams     | ![[Pasted image 20251205110047.png]] | N/A                             |
+| Inputs                  | Expected output            | Actual output                                  | Changes made                    |
+| ----------------------- | -------------------------- | ---------------------------------------------- | ------------------------------- |
+| 1,2,3,4,5 and 6,7,8,9,0 | The words are not anagrams | ![[Pasted image 20251205105523.png]]           | N/A                             |
+| apple, orange           | The words are not anagrams | ![[Pasted image 20251205105605.png]]           | N/A                             |
+| fried, fired            | The words are anagrams     | ![[Pasted image not anagrams.png]]             | The program now sorts the lists |
+| fried, fired            | The words are anagrams     | ![[Pasted image these words are anagrams.png]] | N/A                             |
 ### Exercise 9:
 | Inputs     | Expected output | Actual output                        | Changes made |
 | ---------- | --------------- | ------------------------------------ | ------------ |
-| 45672      | 0 vowels        | ![[Pasted image 20251205111202.png]] | N/A          |
-| aaeeiioouu | 10 vowels       | ![[Pasted image 20251205111242.png]] | N/A          |
-| tomato     | 3 vowels        | ![[Pasted image 20251205111336.png]] | N/A          |
+| 45672      | 0 vowels        | ![[Pasted image 0 vowels.png]] | N/A          |
+| aaeeiioouu | 10 vowels       | ![[Pasted image vowels.png]]         | N/A          |
+| tomato     | 3 vowels        | ![[Pasted image tomato.png]]         | N/A          |
 
 ### Exercise 10:
-| Inputs         | Expected output | Actual output                        | Changes made                                                               |
-| -------------- | --------------- | ------------------------------------ | -------------------------------------------------------------------------- |
-| 10, 9, 8, 7    | 7, 8, 9, 10     | ![[Pasted image 20251205140541.png]] | N/A                                                                        |
-| x, h, k, n     | h, k, n, x      | ![[Pasted image 20251205140529.png]] | N/A, letters are sorted alphabetically, unintended but makes no difference |
-| -1, -2, -3, -4 | -4, -3, -2, -1  | ![[Pasted image 20251205142015.png]] | N/A                                                                        |
+| Inputs         | Expected output | Actual output                          | Changes made                                                               |
+| -------------- | --------------- | -------------------------------------- | -------------------------------------------------------------------------- |
+| 10, 9, 8, 7    | 7, 8, 9, 10     | ![[Pasted image four numbers.png]]   | N/A                                                                        |
+| x, h, k, n     | h, k, n, x      | ![[Pasted image some letters.png]]     | N/A, letters are sorted alphabetically, unintended but makes no difference |
+| -1, -2, -3, -4 | -4, -3, -2, -1  | ![[Pasted image negative numbers.png]] | N/A                                                                        |
 
 
 ### Exercise 11:
 | Inputs | Expected output | Actual output                        | Changes made |
 | ------ | --------------- | ------------------------------------ | ------------ |
-| 0      | 0               | ![[Pasted image 20251205142659.png]] | N/A          |
-| 2493   | 18              | ![[Pasted image 20251205142720.png]] | N/A          |
-| 24a3   | Invalid input.  | ![[Pasted image 20251205142745.png]] | N/A          |
+| 0      | 0               | ![[Pasted image 0.png]] | N/A          |
+| 2493   | 18              | ![[Pasted image 18.png]]             | N/A          |
+| 24a3   | Invalid input.  | ![[Pasted image invalid input.png]]  | N/A          |
 
 ### Exercise 12:
 | Inputs | Expected output | Actual output                        | Changes made |
 | ------ | --------------- | ------------------------------------ | ------------ |
-| Madam  | True            | ![[Pasted image 20251205143959.png]] | N/A          |
-| M3d3m  | True            | ![[Pasted image 20251205144026.png]] | N/A          |
+| Madam  | True            | ![[Pasted image also is palindrome.png]] | N/A          |
+| M3d3m  | True            | ![[Pasted image is palindrome.png]]  | N/A          |
 | M3d2m  | False           | ![[Pasted image not palindrome.png]] | N/A          |
 
 ### Exercise 13:
