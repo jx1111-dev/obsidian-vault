@@ -74,7 +74,7 @@
 ### Exercise 13:
 | Inputs     | Expected output | Actual output                        | Changes made |
 | ---------- | --------------- | ------------------------------------ | ------------ |
-| aaa        | Weak            | ![[Pasted image 20251205144540.png]] | N/A          |
+| aaa        | Weak            | ![[Pasted image weak.png]] | N/A          |
 | 111111A    | Weak            | ![[Pasted image 20251205144626.png]] | N/A          |
 | 111111A$   | Medium          | ![[Pasted image 20251205144651.png]] | N/A          |
 | 11111111A$ | Strong          | ![[Pasted image 20251205144757.png]] | N/A          |
