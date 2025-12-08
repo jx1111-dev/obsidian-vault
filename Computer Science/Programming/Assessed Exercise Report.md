@@ -125,4 +125,6 @@
 | [("tv", 300), ("mobile phone", 800), ("laptop", 600), ("headphones", 200)], 1500 | mobile phone, laptop, 100 | ![[Pasted image 20251207183826.png]] | N/A          |
 | [("tv", 300), ("mobile phone", 800), ("laptop", 600), ("headphones", 200)], 900  | tv, laptop, 0             | ![[Pasted image 20251207183900.png]] | N/A          |
 
+
 ## <u>Task B</u>
+![[Untitled Diagram.drawio(2).png]]
