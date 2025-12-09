@@ -16,115 +16,97 @@
 ### Exercise 4:
 ![[Pasted image 20251203173826.png]]
 ### Exercise 5:
-| Inputs                       | Expected output              | Actual output                        | Changes made           |
-| ---------------------------- | ---------------------------- | ------------------------------------ | ---------------------- |
-| 1, 2, 3, 4, 5                | 3                            | ![[Pasted image 20251205102759.png]] | N/A                    |
-| a,b,c,d,e                    | Program does nothing         | ![[Pasted image 20251205102914.png]] | input validation added |
-| a,b,c,d,e                    | Program throws error message | ![[Pasted image 20251205103327.png]] | N/A                    |
-| -3000,3.017897,3.1,4034000,1 | 806201                       | ![[Pasted image 20251205103529.png]] | N/A                    |
+
+![[Pasted image 20251209004928.png]]
 ### Exercise 6:
-| Inputs | Expected output                                   | Actual output                        | Changes made                                         |
-| ------ | ------------------------------------------------- | ------------------------------------ | ---------------------------------------------------- |
-| -4824  | No errors are thrown, calculates a negative value | ![[Pasted image 20251205104007.png]] | Modified input validation to include negative hours. |
-| -4824  | Program throws error                              | ![[Pasted image 20251205104137.png]] | N/A                                                  |
-| abcd   | Program throws error                              | ![[Pasted image 20251205104203.png]] | N/A                                                  |
-
+![[Pasted image 20251209004632.png]]
 ### Exercise 7:
-| Inputs | Expected output      | Actual output                        | Changes made |
-| ------ | -------------------- | ------------------------------------ | ------------ |
-| a      | Program throws error | ![[Pasted image 20251205105042.png]] | N/A          |
-| -1039  | Program throws error | ![[Pasted image 20251205105118.png]] | N/A          |
 
+![[Pasted image 20251209004644.png]]
 ### Exercise 8:
-| Inputs                  | Expected output            | Actual output                                  | Changes made                    |
-| ----------------------- | -------------------------- | ---------------------------------------------- | ------------------------------- |
-| 1,2,3,4,5 and 6,7,8,9,0 | The words are not anagrams | ![[Pasted image 20251205105523.png]]           | N/A                             |
-| apple, orange           | The words are not anagrams | ![[Pasted image 20251205105605.png]]           | N/A                             |
-| fried, fired            | The words are anagrams     | ![[Pasted image not anagrams.png]]             | The program now sorts the lists |
-| fried, fired            | The words are anagrams     | ![[Pasted image these words are anagrams.png]] | N/A                             |
+
+![[Pasted image 20251209004702.png]]
 ### Exercise 9:
-| Inputs     | Expected output | Actual output                        | Changes made |
-| ---------- | --------------- | ------------------------------------ | ------------ |
-| 45672      | 0 vowels        | ![[Pasted image 0 vowels.png]] | N/A          |
-| aaeeiioouu | 10 vowels       | ![[Pasted image vowels.png]]         | N/A          |
-| tomato     | 3 vowels        | ![[Pasted image tomato.png]]         | N/A          |
 
+![[Pasted image 20251209004710.png]]
 ### Exercise 10:
-| Inputs         | Expected output | Actual output                          | Changes made                                                               |
-| -------------- | --------------- | -------------------------------------- | -------------------------------------------------------------------------- |
-| 10, 9, 8, 7    | 7, 8, 9, 10     | ![[Pasted image four numbers.png]]   | N/A                                                                        |
-| x, h, k, n     | h, k, n, x      | ![[Pasted image some letters.png]]     | N/A, letters are sorted alphabetically, unintended but makes no difference |
-| -1, -2, -3, -4 | -4, -3, -2, -1  | ![[Pasted image negative numbers.png]] | N/A                                                                        |
 
+![[Pasted image 20251209004727.png]]
 ### Exercise 11:
-| Inputs | Expected output | Actual output                        | Changes made |
-| ------ | --------------- | ------------------------------------ | ------------ |
-| 0      | 0               | ![[Pasted image 0.png]] | N/A          |
-| 2493   | 18              | ![[Pasted image 18.png]]             | N/A          |
-| 24a3   | Invalid input.  | ![[Pasted image invalid input.png]]  | N/A          |
 
+![[Pasted image 20251209004734.png]]
 ### Exercise 12:
-| Inputs | Expected output | Actual output                        | Changes made |
-| ------ | --------------- | ------------------------------------ | ------------ |
-| Madam  | True            | ![[Pasted image also is palindrome.png]] | N/A          |
-| M3d3m  | True            | ![[Pasted image is palindrome.png]]  | N/A          |
-| M3d2m  | False           | ![[Pasted image not palindrome.png]] | N/A          |
 
+![[Pasted image 20251209004748.png]]
 ### Exercise 13:
-| Inputs     | Expected output | Actual output                        | Changes made |
-| ---------- | --------------- | ------------------------------------ | ------------ |
-| aaa        | Weak            | ![[Pasted image weak.png]]           | N/A          |
-| 111111A    | Weak            | ![[Pasted image 20251205144626.png]] | N/A          |
-| 111111A$   | Medium          | ![[Pasted image 20251205144651.png]] | N/A          |
-| 11111111A$ | Strong          | ![[Pasted image 20251205144757.png]] | N/A          |
+
+![[Pasted image 20251209004800.png]]
 ### Exercise 14:
-| Inputs                       | Expected output                  | Actual output                        | Changes made |
-| ---------------------------- | -------------------------------- | ------------------------------------ | ------------ |
-| inputs given in the lab file | average: 73.125, letter grade: b | ![[Pasted image 20251207162656.png]] | N/A          |
-| removed one of the subjects  | 80.83333...., B                  | ![[Pasted image 20251207162735.png]] | N/A          |
-| removed another subject      | 78.75, B                         | ![[Pasted image 20251207162754.png]] | N/A          |
 
+![[Pasted image 20251209004809.png]]
 ### Exercise 15:
-| Inputs                               | Expected output | Actual output                        | Changes made |
-| ------------------------------------ | --------------- | ------------------------------------ | ------------ |
-| [1,5 ,600], [100 ,7, 3 , 29, 39]     | 597             | ![[Pasted image 20251207164512.png]] | N/A          |
-| [1,5 ,600], [100 ,7, 3 , 602, 39]    | 601             | ![[Pasted image 20251207164543.png]] | N/A          |
-| [-100,5 ,600], [100 ,7, 3 , 602, 39] | 702             | ![[Pasted image 20251207164624.png]] | N/A          |
 
+![[Pasted image 20251209004816.png]]
 ### Exercise 16:
-| Inputs                           | Expected output | Actual output                                                                      | Changes made                                              |
-| -------------------------------- | --------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| inputs from the brightspace file | N/A             | Each error you make in programming is an opportunity to become a better developer$ | The for statement only iterates through n instead of n-1. |
-| inputs from brighspace           | N/A             | Each error you make in programming is an opportunity to become a better developer! | N/A                                                       |
 
+![[Pasted image 20251209004823.png]]
 ### Exercise 17:
-| Inputs | Expected output | Actual output                        | Changes made              |
-| ------ | --------------- | ------------------------------------ | ------------------------- |
-| 60000  | 48568           | ![[Pasted image 20251207172806.png]] | subtractions were changed |
-| 60000  | 48568           | ![[Pasted image 20251207173204.png]] | N/A                       |
-| 600000 | 348825          | ![[Pasted image 20251207173558.png]] | N/A                       |
 
+![[Pasted image 20251209004830.png]]
 ### Exercise 18:
-| Inputs                           | Expected output                  | Actual output                        | Changes made |
-| -------------------------------- | -------------------------------- | ------------------------------------ | ------------ |
-| "apple", "banana", "orange", "," | ["apple", "banana", "orange"]    | ![[Pasted image 20251207174753.png]] | N/A          |
-| "Hello, how are you?", " "       | ['Hello,', 'how', 'are', 'you?'] | ![[Pasted image 20251207174921.png]] | N/A          |
 
+![[Pasted image 20251209004837.png]]
 ### Exercise 19:
-| Inputs    | Expected output | Actual output                        | Changes made                                  |
-| --------- | --------------- | ------------------------------------ | --------------------------------------------- |
-| aaabbcaaa | (a, 3)          | ![[Pasted image 20251207181446.png]] | N/A                                           |
-| hellooooo | (o, 5)          | ![[Pasted image 20251207181620.png]] | last tuple wasnt added when for loop finished |
-| hellooooo | (o, 5)          | ![[Pasted image 20251207181652.png]] | N/A                                           |
-| banana    | (b, 1)          | ![[Pasted image 20251207181706.png]] | N/A                                           |
-| abc       | (a, 1)          | ![[Pasted image 20251207181718.png]] | N/A                                           |
-### Exercise 20:
-| Inputs                                                                           | Expected output           | Actual output                        | Changes made |
-| -------------------------------------------------------------------------------- | ------------------------- | ------------------------------------ | ------------ |
-| [("tv", 300), ("mobile phone", 800), ("laptop", 600), ("headphones", 200)], 1100 | tv, mobile phone, 0       | ![[Pasted image 20251207183808.png]] | N/A          |
-| [("tv", 300), ("mobile phone", 800), ("laptop", 600), ("headphones", 200)], 1500 | mobile phone, laptop, 100 | ![[Pasted image 20251207183826.png]] | N/A          |
-| [("tv", 300), ("mobile phone", 800), ("laptop", 600), ("headphones", 200)], 900  | tv, laptop, 0             | ![[Pasted image 20251207183900.png]] | N/A          |
 
+![[Pasted image 20251209004849.png]]
+### Exercise 20:
+
+![[Pasted image 20251209004856.png]]
 
 ## <u>Task B</u>
+To start, I made a flowchart to visualize what I wanted to do in the program. Here, the main 3 functions are defined. The CSV receipt is kept out to simplify the program further. I'm only doing this to set a foundation for me to follow, helping with scope creep and keeping the program modularised.
 ![[Untitled Diagram.drawio(2).png]]
+
+==ATTEMPT 1==
+
+
+![[Pasted image 20251209005718.png]]
+![[Pasted image 20251209005725.png]]
+![[Pasted image 20251209005736.png]]
+![[Pasted image 20251209005743.png]]
+![[Pasted image 20251209005752.png]]
+![[Pasted image 20251209005802.png]]
+![[Pasted image 20251209005920.png]]
+![[Pasted image 20251209005931.png]]
+![[Pasted image 20251209005941.png]]
+![[Pasted image 20251209005954.png]]
+
+==ATTEMPT 2==
+add_balance()
+![[Pasted image 20251209035814.png]]
+![[Pasted image 20251209035837.png]]
+
+buy_items()
+![[Pasted image 20251209035912.png]]
+![[Pasted image 20251209035922.png]]
+![[Pasted image 20251209035936.png]]
+![[Pasted image 20251209035950.png]]
+![[Pasted image 20251209040010.png]]
+
+calculate_discount()
+![[Pasted image 20251209040105.png]]
+
+checkout()
+![[Pasted image 20251209040118.png]]
+
+change_calculation()
+![[Pasted image 20251209040139.png]]
+make_csv_file()
+![[Pasted image 20251209040301.png]]
+
+==REFLECTION==
+In terms of learning, I learned a lot from my mistakes of not streamlining my variable names, parameter use in functions, consistent whitespace and commenting. Halfway through the 20 assessed tasks, I realized I needed to comment my code and had to go back and comment every single program, which was a time consuming mistake to make. I also had to rewrite the entirety of task B due to how unreadable and non-linear I made my program. The functions were bouncing off of each other, all their parameters had confusing names, etc. 
+
+In terms of challenges, I had trouble with the bubble sort assessed exercise, the closest_pair_under_budget had me overthinking a lot, while the answer was relatively simple, the is_palindrome exercise was a little difficult if I recall correctly, and I probably got stuck on more that I can't remember due to how long ago I did them.
+
+In terms of improvements, l would say that my code readability and organisation has improved throughout these 20 exercises and task B. I would also say that my logic and troubleshooting skills have gone up spending hours debugging my code. (When I say hours I mean total time spent across all exercises and task B, I didn't spend hours on average per exercise.)
