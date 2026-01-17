@@ -10,7 +10,7 @@ It has a __main diagonal__ running down the "middle":
 That stays the same even when transposed (and when the matrix isn't square, read on):
 ![[Pasted image 20260115104249.png]]
 
-A transpose is where we flip the rows and columns of the matrix (notice the main diagonal stays the same):
+A transpose is where we flip the rows and columns of the matrix. It is noted by a T appearing in the top right of a matrix/a letter representing a matrix (notice the main diagonal stays the same, __be very careful of how you do this.__): 
 ![[Pasted image 20260115104341.png]]
 
 The types are:
@@ -60,3 +60,23 @@ Multiplying by a constant is also relatively easy, just multiply all the numbers
 To multiply 2 matrices together you need to find the __cross product__ of both matrices. To do this, you take each row of the first matrix, and multiply it by each column of the second matrix.
 ![[Pasted image 20260115110110.png]]
 ![[Pasted image 20260115110123.png]]
+
+Doing this, we get:
+![[Pasted image 20260115110951.png]]
+
+In order to do division, we have to learn about the inverse of a matrix. Just like a number has a reciprocal, (reciprocal of 8 = 1/8 for example), matrices have an inverse. __Only square matrices can have inverses. Otherwise, getting the inverse is impossible.__
+
+But how do we create an inverse? This is how it's done for a 2x2:
+![[Pasted image 20260115111655.png]]
+Or, simplified: swap the main diagonal, put minuses in front of any value outside the main diagonal, and divide by ad-bc. __ad-bc is called the determinant.__
+
+For 3x3 or higher, it gets a bit complicated. 
+![[Pasted image 20260115112151.png]]
+This pattern continues for 4x4:
+![[Pasted image 20260115112234.png]]
+Just multiply each member of the first row with every single value apart from values on the same row and column.
+
+If you want to make sure you got it right, you can multiple the original matrix by its inverse. If you did the calculation right, it should equal an identity matrix:
+![[Pasted image 20260115113059.png]]
+Anyway, back to division. To divide 2 matrices together, multiply the first one by the inverse of the second one. 
+
